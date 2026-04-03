@@ -100,6 +100,9 @@ Double-click `frontend.html` in File Explorer.
 
 ## 📁 Project Structure
 E-Library-Digital-Book-Access/
+
 ├── backend_mysql.py     ← FastAPI backend
+
 ├── schema_mysql.sql     ← MySQL schema + seed data
+
 └── frontend.html        ← UI (HTML/CSS/JS)
