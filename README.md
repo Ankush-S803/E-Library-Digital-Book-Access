@@ -1,5 +1,5 @@
 # E-Library-Digital-Book-Access
-A full-stack digital library management system built with **FastAPI + MySQL + HTML/CSS/JS** as part of the In-House Internship at **TCET, Department of AI & Data Science**.
+A full-stack digital library management system built with **FastAPI + MySQL + HTML/CSS/JS** 
 
 ---
 
